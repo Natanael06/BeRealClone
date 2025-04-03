@@ -20,7 +20,15 @@ The following **optional** features are implemented:
 - [ ] Users can pull to refresh their feed and see a loading indicator
 - [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
 - [ ] Users can see location and time of photo upload in the feed	
-- [ ] User stays logged in when app is closed and open again	
+- [ ] User stays logged in when app is closed and open again
+
+<div>
+    <a href="https://www.loom.com/share/ecb3866bd42f4db4a02a8f8fc548fd63">
+    </a>
+    <a href="https://www.loom.com/share/ecb3866bd42f4db4a02a8f8fc548fd63">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ecb3866bd42f4db4a02a8f8fc548fd63-c80695ff2b60f19c-full-play.gif">
+    </a>
+  </div>
 
 ## License
 
